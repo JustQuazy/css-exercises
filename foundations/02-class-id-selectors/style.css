@@ -1,0 +1,19 @@
+.Odd {
+    background-color: #ffc0cb;
+    font: Verdana, DejaVu Sans, sans-serif;
+}
+
+#element2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.Odd.element3 {
+    font-size: 24px
+}
+
+#element4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
